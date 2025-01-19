@@ -2,12 +2,11 @@
 
 requirement:
 
--   PHP >= 8.2
--   [Composer](https://getcomposer.org/download/)
--   [Node.js](https://nodejs.org/en/download/)
--   [Vscode](https://code.visualstudio.com/download)
--   [Xampp](https://www.apachefriends.org/download.html)
--   [Git](https://git-scm.com/downloads)
+-   PHP = 8.2.27
+-   Composer = 2.7.1
+-   Node.js = 20.13.1
+-   NPM = 10.5.2
+-   Mysql = 15.1 Distrib 10.11.8-MariaDB
 
 ## How to install
 
@@ -65,3 +64,17 @@ npm run dev
 ```sh
 php artisan serve
 ```
+
+### User Login
+Admin
+username: admin
+password: admin
+
+User
+role diberikan saat booking
+
+username: ade
+password: password
+
+username: budi
+password: password
